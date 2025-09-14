@@ -1,3 +1,3 @@
 # Security Policy
 
-Report vulnerabilities to security@tinlynk.dev. We aim to respond within 72 hours.
+Report vulnerabilities to [security@tinlynk.dev](mailto:security@tinlynk.dev). We aim to respond within 72 hours.

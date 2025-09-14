@@ -86,7 +86,7 @@ Thank you for your interest in contributing. These guidelines apply org‑wide t
 
 ## Issue Reporting
 
-- Security vulnerabilities: DO **NOT** open a public issue. Email: `security@tinlynk.dev`.
+- Security vulnerabilities: DO **NOT** open a public issue. Email: [security@tinlynk.dev](mailto:security@tinlynk.dev).
 - Bugs: include reproduction steps, expected vs actual, and environment.
 - Feature requests: outline use case & success criteria.
 
